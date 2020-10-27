@@ -20,6 +20,7 @@ I am a _Machine Learning Engineer__.
 
 
 ## Articles
+[Machine learning as a service](https://neptune.ai/blog/machine-learning-as-a-service-what-it-is-when-to-use-it-and-what-are-the-best-tools-out-there)
 
 ### Tech
 
@@ -31,7 +32,7 @@ I am a _Machine Learning Engineer__.
 - Email: [Ejiro Onose](onose75@gmail.com/)
 - Medium Blog: [https://medium.com/@EjiroOnose](https://medium.com/@EjiroOnose)
 
-## Misc.
+
 ### Profile Stats.
 
 [![Joggy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joggyjagz7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Joggyjagz7)
