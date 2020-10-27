@@ -11,8 +11,12 @@ I am a _Machine Learning Engineer__.
 
 ## ✨ My Expertise
 - Python
+- Data science
+- Machine Learning
+- Deep learning (computer vision)
 - C++
 - Flutter
+- Technical writing
 
 
 ## Articles
